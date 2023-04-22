@@ -16,7 +16,7 @@
 # limitations under the License.
 #
 
-DEVICE_PATH := device/infinix/spinel
+DEVICE_PATH := device/infinix/smart-4
 
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
