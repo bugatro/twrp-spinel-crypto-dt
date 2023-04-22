@@ -61,7 +61,7 @@ BOARD_MKBOOTIMG_ARGS += --header_version $(BOARD_BOOTIMG_HEADER_VERSION)
 BOARD_KERNEL_IMAGE_NAME := zImage-dtb
 TARGET_KERNEL_ARCH := arm
 TARGET_KERNEL_HEADER_ARCH := arm
-TARGET_KERNEL_SOURCE := kernel/infinix/spinel
+TARGET_KERNEL_SOURCE := kernel/infinix/smart-4
 TARGET_KERNEL_CONFIG := spinel_defconfig
 
 # Platform
