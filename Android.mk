@@ -18,6 +18,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE), spinel)
+ifeq ($(TARGET_DEVICE), smart-4)
 include $(call all-subdir-makefiles,$(LOCAL_PATH))
 endif
